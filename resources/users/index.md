@@ -267,7 +267,7 @@ Any user profile can be found at `https://pnut.io/@username`, which will redirec
     <tr>
         <td><code>type</code></td>
         <td>string</td>
-        <td>human, feed, or bot. See <a href="https://pnut.io/docs/resources/account-types">Account Types</a> to be sure of the implications.</td>
+        <td>human, feed, or bot. See <a href="https://pnut.io/about/resources/account-types">Account Types</a> to be sure of the implications.</td>
     </tr>
 
     <tr>
